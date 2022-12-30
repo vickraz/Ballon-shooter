@@ -140,4 +140,4 @@ tile_data = PoolIntArray( 720895, 0, 1, 655360, 0, 1, 655361, 0, 1, 655362, 0, 1
 script = ExtResource( 3 )
 
 [node name="Ballista" parent="." instance=ExtResource( 4 )]
-position = Vector2( 156, 559 )
+position = Vector2( 155, 569 )
